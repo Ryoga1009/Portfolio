@@ -8507,12 +8507,10 @@ img{
 }
 
 
-.App{
+.App,.Search{
 	font-size:20px;
 }
-.Search{
-	font-size: 30px;
-}
+
 
 .connpass{
 	font-size: 25px;
