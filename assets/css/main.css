@@ -8460,7 +8460,7 @@ img{
 	font-size:70px;
 	
 }
-.twitter1,.mail,.facebook1{
+.twitter1,.mail,.facebook1,.wantedly_link{
 	font-size:25px;
 }
 .Email{
@@ -8516,6 +8516,12 @@ img{
 	font-size: 25px;
 	margin-left: 110px;
 }
+
+
+.car{
+	text-align: center;
+}
+
 /*
 ***********************************************************************************
 ***********************************************************************************
